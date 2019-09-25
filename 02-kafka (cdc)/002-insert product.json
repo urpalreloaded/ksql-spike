@@ -1,0 +1,19 @@
+{
+    "table": "SVG.PRODUCTS",
+    "op_type": "I",
+    "op_ts": "2019-05-31 04:24:34.000327",
+    "current_ts": "2019-05-31 04:24:39.637000",
+    "pos": "00000000030000003830",
+    "primary_keys": [
+        "ID"
+    ],
+    "tokens": {
+        "txid": "10.32.6726",
+        "csn": "23906131"
+    },
+    "before": null,
+    "after": {
+        "ID": 1,
+        "NAME": "LIFE"
+    }
+}

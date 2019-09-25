@@ -1,0 +1,21 @@
+{
+    "table": "SVG.CUSTOMERS",
+    "op_type": "I",
+    "op_ts": "2019-05-31 04:24:34.000327",
+    "current_ts": "2019-05-31 04:24:39.637000",
+    "pos": "00000000020000003830",
+    "primary_keys": [
+        "ID"
+    ],
+    "tokens": {
+        "txid": "9.32.6726",
+        "csn": "13906131"
+    },
+    "before": null,
+    "after": {
+        "ID": 1,
+        "NAME": "ALESSANDRO"
+    },
+    "ID": 1,
+    "NAME": "ALESSANDRO"
+}

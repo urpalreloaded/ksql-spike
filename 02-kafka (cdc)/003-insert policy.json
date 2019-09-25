@@ -1,0 +1,25 @@
+{
+    "table": "SVG.POLICIES",
+    "op_type": "I",
+    "op_ts": "2019-05-31 04:24:34.000327",
+    "current_ts": "2019-05-31 04:24:39.637000",
+    "pos": "00000000040000003830",
+    "primary_keys": [
+        "ID"
+    ],
+    "tokens": {
+        "txid": "30.32.6726",
+        "csn": "33906131"
+    },
+    "before": null,
+    "after": {
+        "ID": 1,
+        "CUSTOMER_ID": "1",
+        "PRODUCT_ID": "1",
+        "EXPIRATION_DATE": "2019-10-01"
+    },
+    "ID": 1,
+    "CUSTOMER_ID": "1",
+    "PRODUCT_ID": "1",
+    "EXPIRATION_DATE": "2019-10-01"
+}

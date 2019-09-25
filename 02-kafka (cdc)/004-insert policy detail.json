@@ -1,0 +1,25 @@
+{
+    "table": "SVG.POLICIES_DETAILS",
+    "op_type": "I",
+    "op_ts": "2019-05-31 04:24:34.000327",
+    "current_ts": "2019-05-31 04:24:39.637000",
+    "pos": "00000000050000003830",
+    "primary_keys": [
+        "ID"
+    ],
+    "tokens": {
+        "txid": "50.32.6726",
+        "csn": "53906131"
+    },
+    "before": null,
+    "after": {
+        "ID": 1,
+        "POLICY_ID": "1",
+        "OPTION_CODE": "OPT1",
+        "OPTION_VALUE": "1000"
+    },
+    "ID": 1,
+    "POLICY_ID": "1",
+    "OPTION_CODE": "OPT1",
+    "OPTION_VALUE": "1000"
+}

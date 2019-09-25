@@ -1,0 +1,22 @@
+{
+    "table": "SAG.CUSTOMER",
+    "op_type": "U",
+    "op_ts": "2019-05-31 04:24:34.000327",
+    "current_ts": "2019-05-31 04:24:39.637000",
+    "pos": "00000000090000003830",
+    "primary_keys": [
+        "ID"
+    ],
+    "tokens": {
+        "txid": "90.32.6726",
+        "csn": "93906131"
+    },
+    "before": {
+        "NAME": "ALESSANDRO"
+    },
+    "after": {
+        "NAME": "ALESSANDRO CRISTIAN"
+    },
+    "ID": 1,
+    "NAME": "ALESSANDRO CRISTIAN"
+}
